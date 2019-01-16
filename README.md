@@ -13,7 +13,7 @@ The Pocket Pi FE uses the newly developed One For All software which handles the
 
 ### Steps 
 
-1. Download the latest release from the [releases section](http://releases.com)
+1. Download the latest release from the [releases section](https://github.com/withgallantry/RetropieFE/releases)
 2. Insert Micro SD card into the computer
 3. Open Etcher.
 4. Click 'Select Image' and browse to the file downloaded in step 1.
